@@ -1,2 +1,3 @@
 file3 here
 blah blah
+added line here for auth branch test
