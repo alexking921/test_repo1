@@ -3,5 +3,6 @@ the MAN-MONSTER was on the roof
 2nd line
 3rd line from local repo
 4th line added only on REMOTE REPOT via github directly
+middle line (added for file5 test)
 5th line added ONLY on LOCAL (at which pt we didnt have the MASTERS 6th line addition
 6th line added only on REMOTE REPO (going to have the 5th line be added LOCALLY, and then do pull, which should cause merge-conflict. BUT what I mainly want to look for is if the 2nd file is added to our LOCAL REPO, even though the merge-conflict on the OTHER file stopped the pull from fully working (my understanding atm is that the 2nd file SHOULD be added to our LOCAL REPO, and then the only things wed have to re-add and re-commit are any files that had a merge-conflict. Lets see what actually happens:
