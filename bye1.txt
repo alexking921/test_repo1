@@ -1,1 +1,2 @@
 added bye file on local-feature2 branch
+added 2nd line to test the 'clean up' phase of my notes
